@@ -1,0 +1,54 @@
+# Testes
+
+## Testes automatizados
+
+* Testes unitários;
+* Testes integrados;
+* Testes funcionais.
+
+## Testes manuais e automatizados
+
+* Testes usabilidade;
+* Testes de aceitação de usuário;
+* Protótipos;
+* Testes funcionais;
+* Exemplos;
+* Alpha e beta;
+* Mais...
+
+## Ferramentas de teste
+
+* Teste de carga e performance;
+* Testes de segurança;
+* Mais...
+
+# TDD(Test Driven Development)
+
+É um dos pilkares do Extreme Programming, consiste em testar e refatorar em pequenos ciclos, onde você escreve o teste antes do código, faz o mesmo passar e refatora o código
+
+Escrita do Teste -> Escrita do Código  -> Refatoração
+
+### Vantagens
+
+* Feedback rápido;
+* Maior segunrança em alterações e novas funcionalizades;
+* Código mais limpo;
+* Produtividade 
+
+
+
+# TDD(Behavior Driven Development)
+
+Técnica de desenvolvimento ágil que visa integrar regras de negócio com linguagens de programação.
+
+## Pilares
+
+* Teste;
+* Documentação;
+* Exemplo.
+
+### Vantagens
+
+* Compartilhamento de conhecimento;
+* Documentação dinâmica;
+* Visaõ do todo. 
